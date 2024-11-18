@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gokhansolo" target="blank"><img src="https://img.shields.io/twitter/follow/gokhansolo?logo=twitter&style=for-the-badge" alt="gokhansolo" /></a> </p>
 
-- 🔭 I’m currently working on [Bi'akıl](biakil.com)
-
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [be.net/gokhanc](be.net/gokhanc)
+- 👨‍💻 Some of my projects are available at [be.net/gokhanc](be.net/gokhanc)
 
 - 📫 How to reach me **gokhaanc@gmail.com**
 
