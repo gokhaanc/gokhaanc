@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 Some of my projects are available at [be.net/gokhanc](be.net/gokhanc)
+- 👨‍💻 Some of my projects are available at [be.net/gokhanc](https://be.net/gokhanc)
 
 - 📫 How to reach me **gokhaanc@gmail.com**
 
